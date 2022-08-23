@@ -1,1 +1,1 @@
-let palabra = "Palabra";
+let palabra = "Chau";
